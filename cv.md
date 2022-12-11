@@ -4,3 +4,7 @@
 
 ## Contacts: lena13x2@gmail.com
 
+### a week experience
+
+#### front-end development training
+
