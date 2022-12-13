@@ -6,12 +6,12 @@
 
 ### work experience is one week
 
-##### Foreign languages:
-English A2
+<p> ##### Foreign languages:
+English A2 </p>
 
-#### My example code now looks like this:
-Боже, на что я жмал?
+<p> #### My example code now looks like this:
+> _Боже, на что я жмал?_ </p>
 
-=====
+********
 
 **with all due respect**
