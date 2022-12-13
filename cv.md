@@ -1,4 +1,4 @@
-![photo](<img src="https://i.pinimg.com/originals/3a/e2/05/3ae2057783f74e9bc24a1b7effef05ce.jpg" width="400" height="790">) 
+![photo](https://i.pinimg.com/originals/3a/e2/05/3ae2057783f74e9bc24a1b7effef05ce.jpg=400x500) 
 
 # Lena13x2
 
