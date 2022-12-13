@@ -1,16 +1,21 @@
-![photo](https://i.pinimg.com/originals/3a/e2/05/3ae2057783f74e9bc24a1b7effef05ce.jpg=400x500) 
+![photo]([https://i.pinimg.com/originals/3a/e2/05/3ae2057783f74e9bc24a1b7effef05ce.jpg](https://sun1-25.userapi.com/s/v1/ig2/8iyoY2gRRc0cdBH1vQx81frf_YjiJjPrU6nddPtVCju11B7f7uNDnv4HWOgRKdnVrl8-U5a7Rv2Dwr3P8pBBqyTn.jpg?size=200x0&quality=96&crop=3,254,740,740&ava=1) 
 
 # Lena13x2
 
-## Contacts: lena13x2@gmail.com
+> Contacts: lena13x2@gmail.com
 
-### work experience is one week
-
-##### Foreign languages:
+### work experience is one week:
+[Курс «JavaScript/Front-end»](https://rs.school/js/)
+![rs.school](https://rolling-scopes-school.github.io/pozhitok-egor-JS2020Q3/covid-dashboard/img/rs-school.png)
+#### Foreign languages:
 English A2
 
 #### My example code now looks like this:
 > _Боже, на что я жмал?_
+
+
+
+
 
 ********
 
