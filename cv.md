@@ -1,4 +1,4 @@
-![photo]([https://i.pinimg.com/originals/3a/e2/05/3ae2057783f74e9bc24a1b7effef05ce.jpg](https://sun1-25.userapi.com/s/v1/ig2/8iyoY2gRRc0cdBH1vQx81frf_YjiJjPrU6nddPtVCju11B7f7uNDnv4HWOgRKdnVrl8-U5a7Rv2Dwr3P8pBBqyTn.jpg?size=200x0&quality=96&crop=3,254,740,740&ava=1) 
+![photo](https://i.pinimg.com/originals/3a/e2/05/3ae2057783f74e9bc24a1b7effef05ce.jpg](https://sun1-25.userapi.com/s/v1/ig2/8iyoY2gRRc0cdBH1vQx81frf_YjiJjPrU6nddPtVCju11B7f7uNDnv4HWOgRKdnVrl8-U5a7Rv2Dwr3P8pBBqyTn.jpg?size=200x0&quality=96&crop=3,254,740,740&ava=1) 
 
 # Lena13x2
 
