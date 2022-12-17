@@ -1,1 +1,17 @@
-*hello*
+.image_me {
+    width: 20%;    
+    margin: 50px 50px;
+}
+
+.article_text {
+    margin: 0 0 0 50px;
+}
+
+.contacts {
+    margin: 0 0 0 50px;
+}
+
+.rs {
+    width: 50px;   
+    margin: 5px 5px
+}
