@@ -15,3 +15,51 @@
     width: 50px;   
     margin: 5px 5px
 }
+.git {
+    width: 50px;   
+    margin: 5px 5px 
+}
+.linkrs {
+    width: 50px;   
+    margin: 5px 5px   
+}
+.foot {
+    background-color:lightgrey;
+    color: black;
+    display: block;
+    height: 250px;
+    position: absolute;
+    width: 100%;
+}
+.ground {
+    background-color:ivory;
+    color:black;
+    display:block;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+.code {
+    margin: 0 0 0 50px;
+}
+.text_code {
+    color: indigo;
+    font-family: 'Segoe UI';
+    font-style: oblique;
+    font-weight: bold;
+}
+.image_me {
+    padding-top: 20px;
+}
+.work_exp {
+    margin: 0 0 0 50px;
+}
+h2 {
+    font-size: 0,8em;
+}
+.article_links {
+    margin: 0 0 0 50px;
+}
+.links {
+    margin: 0 0 0 50px;
+}
