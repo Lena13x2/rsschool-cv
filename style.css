@@ -10,11 +10,6 @@
 .contacts {
     margin: 0 0 0 50px;
 }
-
-.rs {
-    width: 50px;   
-    margin: 5px 5px
-}
 .git {
     width: 50px;   
     margin: 5px 5px 
@@ -62,4 +57,13 @@ h2 {
 }
 .links {
     margin: 0 0 0 50px;
+}
+ol, ul {
+    font-size: 1.2rem;
+}
+code {
+    font-size: 1.5rem;
+}
+nav {
+    font: 1em sans-serif;
 }
